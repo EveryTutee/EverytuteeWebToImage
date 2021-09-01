@@ -19,7 +19,7 @@ Now, lets discuss the API. This API is going to give a snapshot of an entire web
 1. Fork  ![this repository](https://github.com/EveryTutee/EverytuteeWebToImage/fork)
 2. Clone the forked repository repository `git clone https://github.com/<your-username>/EverytuteeWebToImage.git`
 3. Move into the cloned folder `cd EverytuteeWebToImage`
-4. Set upstream `git remote add upstream git clone https://github.com/EveryTutee/EverytuteeWebToImage.git`
+4. Set upstream `git remote add upstream https://github.com/EveryTutee/EverytuteeWebToImage.git`
 5. Fetch upstream `git fetch upstream` 
 6. Create a python virtual environment `python -m venv <virtual-environment-name>`
 7. Install the  necessary packages `pip install -r requirements.txt`

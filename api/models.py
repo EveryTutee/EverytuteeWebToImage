@@ -6,7 +6,8 @@ import ImageKit
 
 class WebToImage:
     
-    def __init__(self, html, css, output_type:
+    def __init__(self, html, css, output_type):
+        
         self.html = ""
         self.css = ""
         self.output_type = ""
